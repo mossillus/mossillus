@@ -31,8 +31,6 @@ Technically proficient Data Science and Statistics student at the University of 
 
 <br/>  
 
-<table><tr><td valign="top" width="50%">
-
 # Current Goals:  
   
 
@@ -43,13 +41,7 @@ Technically proficient Data Science and Statistics student at the University of 
   
 
 - ❓ Ask me about anything related to Statistical Learning and Probability Analysis  
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
+  
 
 <br/>  
 
@@ -107,6 +99,8 @@ Technically proficient Data Science and Statistics student at the University of 
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
+
 <!--
 **mossillus/mossillus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
