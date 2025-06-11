@@ -1,7 +1,4 @@
-# Sarah Taha  
-  
-
-## Data Science & Statistics Undergrad  
+# Data Science & Statistics Undergrad  uate
   
 
 <a href="https://github.com/mossillus" target="_blank">
