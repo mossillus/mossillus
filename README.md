@@ -49,7 +49,7 @@ Technically proficient Data Science and Statistics student at the University of 
 - Hands-on experience includes developing LLM-based pipelines to extract structured data from scientific literature in photovoltaics and electronic materials, with outputs in CSV/JSON and visualized evaluation metrics. 
 - Led a machine learning project on flight delay prediction using regression, LSTM, time-series, and Random Forest models to evaluate performance trade-offs. 
 - As a library research assistant, audited 10,000–20,000 course materials and maintained a data portal supporting over $13 million in textbook cost savings for students.
-- Presented at *Open AI* and *Teaching and Learning with AI* as a Student Advocate for the Integration of Gen AI tools for higher education.  
+- Presented at *OpenEd Live* and *Teaching and Learning with AI* as a Student Advocate for the Integration of Gen AI tools for higher education.  
   
 
 <br/>  
@@ -60,7 +60,7 @@ Technically proficient Data Science and Statistics student at the University of 
 - 🔭 I’m currently working on [Flight Delay Prediction Using Machine Learning](https://github.com/Isaacval21/MCOFlightDelayPredictor)  
   
 
-- 🌱 I’m currently learning MongoDB, PyTorch, and ACCESS  
+- 🌱 I’m currently learning AWS, PowerBI, and Java  
   
 
 - ❓ Ask me about anything related to Statistical Learning and Probability Analysis  
